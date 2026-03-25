@@ -1,0 +1,46 @@
+[
+  {
+    "user_id": 0,
+    "username": "test_user_001",
+    "realname": "Alice",
+    "bio": "A curious user interested in technology and science.",
+    "persona": "Alice is an enthusiastic participant in social discussions, often sharing insights about the latest tech trends.",
+    "karma": 1500,
+    "friend_count": 100,
+    "follower_count": 200,
+    "statuses_count": 500,
+    "age": 25,
+    "gender": "female",
+    "mbti": "INTJ",
+    "country": "USA",
+    "profession": "Software Engineer",
+    "interested_topics": [
+      "Technology",
+      "Science"
+    ],
+    "source_entity_uuid": "entity-001",
+    "source_entity_type": "Person"
+  },
+  {
+    "user_id": 1,
+    "username": "test_user_002",
+    "realname": "Bob",
+    "bio": "A casual user who likes to discuss politics and sports.",
+    "persona": "Bob enjoys lively debates and often posts about current events and games.",
+    "karma": 800,
+    "friend_count": 50,
+    "follower_count": 120,
+    "statuses_count": 300,
+    "age": 30,
+    "gender": "male",
+    "mbti": "ESFP",
+    "country": "Canada",
+    "profession": "Marketing Manager",
+    "interested_topics": [
+      "Politics",
+      "Sports"
+    ],
+    "source_entity_uuid": "entity-002",
+    "source_entity_type": "Person"
+  }
+]
